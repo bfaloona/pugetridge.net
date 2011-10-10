@@ -1,0 +1,82 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 00:03:15
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 00:03:15 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 78
+2005-02-23 00:03:15 GET /ethiopia/pages/03Blue+Nile+Falls.htm 68.142.251.104 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 281 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 00:22:19
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 00:22:19 GET /pakistan/pages/08new+year's+day+on+beach.+jpg.htm 68.142.250.185 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 302 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 01:10:20
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 01:10:20 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-23 01:10:20 GET /pakistan/pages/11sunset+fishing+boat.htm 68.142.249.102 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 285 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 02:47:44
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 02:47:44 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 62
+2005-02-23 02:47:44 GET /ethiopia/pages/10Debre+Berhan+Selasie+ceiling.htm 68.142.249.174 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 209 296 62
+2005-02-23 02:51:14 GET /ethiopia/pages/04Bahar+Dar+Timket+parade.htm 68.142.249.65 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 209 291 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 04:26:51
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 04:26:51 GET /index.htm 66.194.6.75 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.0;+i686+Linux;+20020706) 200 7828 125 156
+2005-02-23 04:40:51 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 62
+2005-02-23 04:40:51 GET /ethiopia 68.142.251.55 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 301 380 249 46
+2005-02-23 04:40:51 GET /ethiopia/index.htm 68.142.251.55 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 8416 200 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 05:49:38
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 05:49:38 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-23 05:49:38 GET /pakistan/pages/25playingcards_hippo_mara.htm 68.142.249.164 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 208 285 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 06:41:44
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 06:41:44 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 62
+2005-02-23 06:41:44 GET /china_pics.htm 68.142.251.80 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 205 46
+2005-02-23 06:53:09 GET /ethiopia/pages/22coffee+shop+girls.htm 68.142.249.31 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 209 283 46
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 08:53:27
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 08:53:27 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-23 08:53:27 GET /pakistan/pages/01skyline.htm 68.142.251.192 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 269 46
+2005-02-23 09:06:53 GET /homeschool.htm 68.142.251.96 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 255 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 10:08:54
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 10:08:54 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-23 10:08:54 GET /ethiopia/pages/05Ababa+roasting+coffee+beans.htm 68.142.251.150 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 295 78
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 11:02:22
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 11:02:22 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-23 11:02:22 GET /spain/spain_journal.htm 68.142.249.130 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 264 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 11:51:24
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 11:51:24 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 62
+2005-02-23 11:51:24 GET /pakistan/pages/12weddingnight.htm 68.142.250.30 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 274 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 13:34:33
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 13:34:33 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 62
+2005-02-23 13:34:33 GET /pakistan/pages/22our+group.htm 68.142.250.50 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 273 62
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-23 18:49:55
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-23 18:49:55 GET /robots.txt 68.142.250.85 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-23 18:49:55 GET /ethiopia/pages/14_7th+graders+at+home.htm 68.142.249.22 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 210 288 62

@@ -1,0 +1,13 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2005-01-21 01:32:11
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2005-01-21 01:32:11 68.142.251.138 GET /robots.txt 404 4184 201 15 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 01:32:11 68.142.249.13 GET /pakistan/pages/17Old+City+street+scene.htm 200 1830 239 78 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 01:33:56 68.142.251.198 GET /pakistan/pages/18busdrivers.htm 200 1759 222 63 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 04:58:54 68.142.251.138 GET /robots.txt 404 4184 201 16 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 04:58:54 68.142.250.53 GET /pakistan/pages/19camel+cart.htm 200 1916 224 94 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 09:20:44 68.142.251.137 GET /robots.txt 404 4184 201 31 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 09:20:44 68.142.249.130 GET /pakistan/pages/20masai+village.htm 200 2112 227 94 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 21:25:38 68.142.251.137 GET /robots.txt 404 4184 201 16 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-21 21:25:38 68.142.251.114 GET /pakistan/pages/05christmas+tree.htm 200 1762 228 94 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)

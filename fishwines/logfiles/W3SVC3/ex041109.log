@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-11-09 00:59:01
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2004-11-09 00:59:01 66.196.90.62 GET /robots.txt 404 4184 201 16 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-09 00:59:01 66.196.91.131 GET /pakistan/pages/20masai+village.htm 304 141 277 31 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-09 01:31:07 66.196.91.22 GET /pakistan/pages/24lions+on+road.htm 304 141 279 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-09 01:32:40 66.196.91.35 GET /pakistan/pages/18busdrivers.htm 304 141 272 31 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-09 04:47:21 66.194.6.71 GET /index.htm 200 7827 125 125 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1;+i686+Linux;+20020509)
+2004-11-09 09:34:00 66.194.6.72 GET /index.htm 200 7827 129 204 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.0-rc6;+i686+Linux;+20020318)

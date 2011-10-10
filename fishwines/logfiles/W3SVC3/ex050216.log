@@ -1,0 +1,93 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-16 01:04:47
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-16 01:04:47 GET /index.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 7828 392 218
+2005-02-16 01:04:47 GET /images/bg_gradient_home.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 4801 301 156
+2005-02-16 01:04:49 GET /images/goodbye.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 22181 292 2218
+2005-02-16 01:04:49 GET /images/map_beige_guat7.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 44183 300 2218
+2005-02-16 01:04:54 GET /pakistan/pakistan_journal.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 11057 464 109
+2005-02-16 01:04:54 GET /images/journaling2.gif 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2289 325 62
+2005-02-16 01:04:54 GET /images/pakistan.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 21878 322 921
+2005-02-16 01:04:55 GET /images/map_BG.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 8919 320 1156
+2005-02-16 01:04:59 GET /homeschool.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 6242 478 109
+2005-02-16 01:04:59 GET /images/header.gif 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2015 305 46
+2005-02-16 01:04:59 GET /images/northwestschoollogo.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 4462 318 750
+2005-02-16 01:04:59 GET /images/northwestschool.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 21232 314 984
+2005-02-16 01:05:17 GET /index.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 7767 458 62
+2005-02-16 01:05:27 GET /japan.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 6350 453 109
+2005-02-16 01:05:27 GET /images/japan.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 20599 299 718
+2005-02-16 01:05:29 GET /images/japan1.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 16494 300 1375
+2005-02-16 01:05:39 GET /china.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 8187 453 93
+2005-02-16 01:05:39 GET /images/china1.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 14095 300 500
+2005-02-16 01:05:39 GET /images/china2.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 13545 300 953
+2005-02-16 01:05:40 GET /images/china.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 21765 299 1421
+2005-02-16 01:05:53 GET /laos.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 8354 452 125
+2005-02-16 01:05:53 GET /images/laos1.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 14611 298 484
+2005-02-16 01:05:53 GET /images/laos2.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 6200 298 687
+2005-02-16 01:05:54 GET /images/laos.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 21508 297 1015
+2005-02-16 01:06:06 GET /laos.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 191 380 78
+2005-02-16 01:06:06 GET /images/laos1.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 191 387 31
+2005-02-16 01:06:06 GET /images/laos2.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 191 387 46
+2005-02-16 01:06:06 GET /images/laos.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 190 385 31
+2005-02-16 01:06:06 GET /images/bg_gradient_home.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 190 397 156
+2005-02-16 01:06:06 GET /images/map_BG.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 191 388 234
+2005-02-16 01:06:09 GET /laos/index.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 12060 245 328
+2005-02-16 01:06:09 GET /laos/thumbnails/01_reclining+golden+buddah+(Bangkok).jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3513 350 281
+2005-02-16 01:06:09 GET /laos/thumbnails/02_Bangkok+monk+with+stature+at+palace'.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3962 359 250
+2005-02-16 01:06:09 GET /laos/thumbnails/03_Annie+in+whites+at+Wat+Pradhatu+sri+Chom+Tong.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3345 372 234
+2005-02-16 01:06:09 GET /laos/thumbnails/04_Wat+Pradhatu+sri+Chom+Tong+stupa.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2981 353 265
+2005-02-16 01:06:09 GET /laos/thumbnails/05_woman+with+baskets+in+Chiang+Mai.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3738 353 250
+2005-02-16 01:06:09 GET /laos/thumbnails/06_Lao+boatmen.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3877 324 234
+2005-02-16 01:06:09 GET /laos/thumbnails/07_kids+on+riverbank+with+B.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2994 343 234
+2005-02-16 01:06:10 GET /laos/thumbnails/08_Hmong+family+on+bus+back.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 4388 343 250
+2005-02-16 01:06:10 GET /laos/thumbnails/09_Lao+new+year+-+getting+splashed.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3412 352 250
+2005-02-16 01:06:10 GET /laos/thumbnails/10_Luang+Prabang+night+market.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 4621 343 250
+2005-02-16 01:06:10 GET /laos/thumbnails/11_Haw+Pha+Bang+Wat+-+Luang+Prabang.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 4288 355 265
+2005-02-16 01:06:10 GET /laos/thumbnails/12_Nam+Ou+River+in+the+mist.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2024 345 250
+2005-02-16 01:06:10 GET /laos/thumbnails/13_Ban+Soupjem+main+street.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2971 340 234
+2005-02-16 01:06:10 GET /laos/thumbnails/14_burning+fields+-+looking+across+river.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2847 358 62
+2005-02-16 01:06:10 GET /laos/thumbnails/15_Phouy+fishing.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 2356 326 234
+2005-02-16 01:06:10 GET /laos/thumbnails/16_Phouy+fixing+net.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3687 331 187
+2005-02-16 01:06:11 GET /laos/thumbnails/17_woman+tossing+rice.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3333 333 250
+2005-02-16 01:06:11 GET /laos/thumbnails/18_La+cooking.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3052 323 250
+2005-02-16 01:06:11 GET /laos/thumbnails/19_little+one+in+kitchen.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3154 338 62
+2005-02-16 01:06:11 GET /laos/thumbnails/20_girls+line+up.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3402 328 265
+2005-02-16 01:06:11 GET /laos/thumbnails/21_small+scale+hydro.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 4033 332 234
+2005-02-16 01:06:11 GET /laos/thumbnails/22_Making+turbine+shaft.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3374 335 234
+2005-02-16 01:06:11 GET /laos/thumbnails/23_hanging+elec+wires.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3185 333 234
+2005-02-16 01:06:11 GET /laos/thumbnails/24_Eun+Huean+weaving.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3707 332 250
+2005-02-16 01:06:11 GET /laos/thumbnails/25_woman+helping+annie+weave.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3430 342 250
+2005-02-16 01:06:12 GET /laos/thumbnails/26_the+finished+fabric.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3161 334 234
+2005-02-16 01:06:12 GET /laos/thumbnails/27_Phouy+weaving+basket.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3635 335 265
+2005-02-16 01:06:12 GET /laos/thumbnails/28_water+buffalo+at+Phouys+rice+field.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3306 355 265
+2005-02-16 01:06:12 GET /laos/thumbnails/29_wedding+party.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3641 326 234
+2005-02-16 01:06:12 GET /laos/thumbnails/30_blessing+ceremony.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3187 330 171
+2005-02-16 01:06:12 GET /laos/thumbnails/31_blessing+toast.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 3634 327 390
+2005-02-16 01:06:14 GET /laos/pages/23_hanging+elec+wires.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 1604 489 62
+2005-02-16 01:06:14 GET /laos/images/previous.gif 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 610 338 31
+2005-02-16 01:06:14 GET /laos/images/next.gif 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 601 334 46
+2005-02-16 01:06:14 GET /laos/images/home.gif 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 615 334 187
+2005-02-16 01:06:16 GET /laos/images/23_hanging+elec+wires.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 47888 355 1578
+2005-02-16 01:06:33 GET /images/journaling2.gif 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 191 406 1015
+2005-02-16 01:06:33 GET /laos/laos_journal.htm 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 200 63871 464 1890
+2005-02-16 01:06:33 GET /images/bg_gradient_home.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 190 410 781
+2005-02-16 01:06:33 GET /images/map_BG.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 191 401 187
+2005-02-16 01:06:33 GET /images/laos.jpg 67.183.219.194 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.1.4322) 304 190 398 187
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-16 01:32:27
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-16 01:32:27 GET /index.htm 66.194.6.76 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Q312468) 200 7828 123 140
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-16 05:46:52
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-16 05:46:52 GET /robots.txt 68.142.250.91 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-16 05:46:52 GET /index.htm 68.142.250.74 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 7847 191 124
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2005-02-16 07:46:37
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) sc-status sc-bytes cs-bytes time-taken 
+2005-02-16 07:46:37 GET /robots.txt 66.196.90.143 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 1791 201 46
+2005-02-16 07:46:40 GET /laos/laos_journal.htm 66.196.91.33 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 63890 212 1885

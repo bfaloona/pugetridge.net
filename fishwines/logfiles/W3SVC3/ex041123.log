@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-11-23 03:15:05
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2004-11-23 03:15:05 66.196.90.55 GET /robots.txt 404 4184 201 15 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-23 03:15:05 66.196.90.54 GET /ethiopia/pages/20church+-+men's+entrance.htm 304 141 293 31 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-23 05:02:44 66.196.90.55 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-23 05:02:44 66.196.90.175 GET /ethiopia/index.htm 304 211 250 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-23 12:41:39 66.196.90.55 GET /robots.txt 404 4184 201 15 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-23 12:41:39 66.196.90.68 GET /ethiopia/pages/05Ababa+roasting+coffee+beans.htm 304 141 295 187 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-23 18:30:20 66.194.6.73 GET /index.htm 200 7827 125 453 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1;+i686+Linux;+20021110)

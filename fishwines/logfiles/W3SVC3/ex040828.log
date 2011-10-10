@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-08-28 15:46:45
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2004-08-28 15:46:45 24.225.66.188 GET /index.htm 200 7827 473 375 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:46:46 24.225.66.188 GET /images/goodbye.jpg 200 22180 534 516 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:46:48 24.225.66.188 GET /images/bg_gradient_home.jpg 200 4800 543 219 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:46:48 24.225.66.188 GET /images/map_beige_guat7.jpg 200 44182 542 2813 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:47:25 24.225.66.188 GET /ethiopia/ethiopia_journal.htm 200 0 545 218 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:47:27 24.225.66.188 GET /ethiopia/ethiopia_journal.htm 200 56081 545 2312 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:47:27 24.225.66.188 GET /images/journaling2.gif 200 2288 567 203 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:47:27 24.225.66.188 GET /images/map_BG.jpg 200 8918 562 328 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:47:27 24.225.66.188 GET /images/ethiopia.jpg 200 22058 564 625 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:51:01 24.225.66.188 GET /index.htm 200 0 554 406 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 15:51:01 24.225.66.188 GET /index.htm 200 7766 554 171 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-08-28 16:59:19 66.194.6.72 GET /index.htm 200 7827 129 141 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.0-rc5;+i686+Linux;+20020220)

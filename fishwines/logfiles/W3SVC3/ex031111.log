@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2003-11-11 10:47:14
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2003-11-11 10:47:14 66.194.6.76 GET /ethiopia.htm 200 8050 141 156 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1-rc3;+i686+Linux;+20020420)
+2003-11-11 11:22:56 66.194.6.74 GET /index.htm 200 7827 125 484 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.0;+i686+Linux;+20021202)

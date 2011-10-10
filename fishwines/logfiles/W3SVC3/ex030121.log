@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2003-01-21 02:35:38
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2003-01-21 02:35:38 68.128.155.138 GET /index.htm 200 7377 399 1656 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-01-21 02:35:38 68.128.155.138 GET /images/bg_gradient_home.jpg 304 140 390 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-01-21 02:35:38 68.128.155.138 GET /images/map_home_pak_line.jpg 304 140 391 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-01-21 02:35:47 68.128.155.138 GET /pakistan.htm 304 140 453 47 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-01-21 02:35:47 68.128.155.138 GET /images/pakistan1.jpg 304 141 396 16 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-01-21 02:35:47 68.128.155.138 GET /images/pakistan.jpg 304 141 395 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-01-21 02:35:47 68.128.155.138 GET /images/map_BG.jpg 304 141 393 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-01-21 19:25:50 206.81.222.24 GET /index.htm 200 7377 235 250 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2003-01-21 19:25:50 206.81.222.24 GET /images/bg_gradient_home.jpg 200 4800 395 344 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2003-01-21 19:25:52 206.81.222.24 GET /images/goodbye.jpg 200 22180 386 1782 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2003-01-21 19:25:52 206.81.222.24 GET /images/map_home_pak_line.jpg 200 42482 396 2187 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2003-01-21 20:19:31 216.186.53.1 GET /index.htm 200 7316 350 187 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-01-21 20:19:33 216.186.53.1 GET /images/map_home_pak_line.jpg 200 42482 291 1641 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-01-21 20:19:33 216.186.53.1 GET /images/goodbye.jpg 200 22180 281 1703 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-01-21 20:19:33 216.186.53.1 GET /images/bg_gradient_home.jpg 200 4800 290 328 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-01-21 20:19:44 216.186.53.1 GET /pakistan.htm 200 7541 405 203 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-01-21 20:19:44 216.186.53.1 GET /images/pakistan1.jpg 200 14156 286 375 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-01-21 20:19:46 216.186.53.1 GET /images/pakistan.jpg 200 21877 285 1078 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-01-21 20:19:46 216.186.53.1 GET /images/map_BG.jpg 200 8918 283 734 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)

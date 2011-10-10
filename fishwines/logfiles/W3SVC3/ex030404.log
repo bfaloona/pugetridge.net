@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2003-04-04 02:04:10
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2003-04-04 02:04:10 192.168.0.23 GET /index.htm 304 201 367 31 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)
+2003-04-04 12:17:26 203.146.193.183 GET /index.htm 200 7015 369 2140 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-04-04 12:17:35 203.146.193.183 GET /images/goodbye.jpg 200 22180 269 8750 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-04-04 12:17:37 203.146.193.183 GET /images/bg_gradient_home.jpg 200 4800 278 8094 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-04-04 12:17:45 203.146.193.183 GET /images/map_home_eth_line.jpg 200 42666 279 18531 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+98;+DigExt)
+2003-04-04 13:31:07 64.156.198.77 GET /ethiopia.htm 200 8050 141 234 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.0-rc3;+i686+Linux;+20020220)
+2003-04-04 14:38:30 64.156.198.80 GET /index.htm 200 7015 123 172 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Q312463)
+2003-04-04 16:39:41 165.247.142.47 GET /index.htm 200 7015 473 515 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2003-04-04 16:39:41 165.247.142.47 GET /images/goodbye.jpg 200 22180 534 890 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2003-04-04 16:39:43 165.247.142.47 GET /images/bg_gradient_home.jpg 200 4800 543 360 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2003-04-04 16:39:43 165.247.142.47 GET /images/map_home_eth_line.jpg 200 42666 544 2188 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2003-04-04 19:46:34 68.128.152.69 GET /index.htm 304 201 398 16 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-04-04 19:46:34 68.128.152.69 GET /images/map_home_eth_line.jpg 304 139 390 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-04-04 19:46:44 68.128.152.69 GET /india.htm 304 141 451 32 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-04-04 19:46:44 68.128.152.69 GET /images/india1.jpg 304 141 390 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-04-04 19:46:45 68.128.152.69 GET /images/india2.jpg 304 141 390 15 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-04-04 19:46:45 68.128.152.69 GET /images/india.jpg 304 141 389 16 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+MSNIA;+Windows+98;+DigExt;+YComp+5.0.2.6)
+2003-04-04 22:34:53 152.163.188.8 GET /index.htm 200 7039 225 218 HTTP/1.0 Mozilla/4.0+(compatible;+MSIE+6.0;+AOL+7.0;+Windows+NT+5.1;+Q312461)
+2003-04-04 23:09:49 64.156.198.80 GET /index.htm 200 7015 125 156 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1;+i686+Linux;+20020417)

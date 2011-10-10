@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2005-02-03 01:48:05
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2005-02-03 01:48:05 64.12.116.138 HEAD /index.htm 200 312 139 16 HTTP/1.0 -
+2005-02-03 23:45:28 66.194.6.77 GET /index.htm 200 7827 129 172 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1-rc4;+i686+Linux;+20021010)

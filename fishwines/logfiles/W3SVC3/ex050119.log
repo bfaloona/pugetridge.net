@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2005-01-19 02:58:52
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2005-01-19 02:58:52 68.142.251.142 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 02:58:52 68.142.249.153 GET /china.htm 200 8186 200 312 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 11:01:00 68.142.251.142 GET /robots.txt 404 4184 201 31 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 11:01:00 68.142.251.80 GET /china_pics.htm 404 4184 205 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 12:38:47 68.142.251.142 GET /robots.txt 404 4184 201 15 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 12:38:47 68.142.250.184 GET /pakistan/index.htm 200 8658 200 140 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 12:45:26 68.142.250.153 GET /pakistan/pages/13floor+finishers.htm 200 1615 229 94 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 17:36:50 66.194.6.77 GET /index.htm 200 7827 125 203 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1;+i686+Linux;+20020211)
+2005-01-19 20:43:03 68.142.251.142 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 20:43:03 68.142.250.185 GET /pakistan/pages/08new+year's+day+on+beach.+jpg.htm 200 1682 252 94 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 21:49:02 68.142.251.142 GET /robots.txt 404 4184 201 16 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2005-01-19 21:49:02 68.142.249.56 GET /pakistan/pages/06Iranian+mosque.htm 200 1504 228 78 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)

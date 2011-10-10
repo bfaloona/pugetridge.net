@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2003-07-07 01:48:18
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2003-07-07 01:48:18 64.156.198.69 GET /ethiopia.htm 200 8050 141 235 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.0-rc3;+i686+Linux;+20020712)
+2003-07-07 14:15:56 64.156.198.78 GET /index.htm 200 7827 129 219 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1-rc5;+i686+Linux;+20021227)
+2003-07-07 22:56:14 156.74.250.7 GET /index.htm 200 7827 380 172 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+MSNIA;+Windows+98;+Q312461)
+2003-07-07 22:56:16 156.74.250.7 GET /images/map_beige_guat7.jpg 200 44182 288 2046 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+MSNIA;+Windows+98;+Q312461)
+2003-07-07 22:56:16 156.74.250.7 GET /images/bg_gradient_home.jpg 200 4800 289 172 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+MSNIA;+Windows+98;+Q312461)
+2003-07-07 22:56:16 156.74.250.7 GET /images/goodbye.jpg 200 22180 280 1891 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+MSNIA;+Windows+98;+Q312461)

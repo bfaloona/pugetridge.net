@@ -1,0 +1,43 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-01-15 09:34:49
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2004-01-15 09:34:49 66.194.6.76 GET /index.htm 200 7827 129 312 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1-rc6;+i686+Linux;+20020625)
+2004-01-15 10:23:18 66.194.6.75 GET /ethiopia.htm 200 8050 141 141 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1-rc4;+i686+Linux;+20020214)
+2004-01-15 22:18:46 24.225.66.201 GET /index.htm 200 7827 503 375 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 22:18:46 24.225.66.201 GET /images/goodbye.jpg 200 22180 564 563 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 22:18:48 24.225.66.201 GET /images/bg_gradient_home.jpg 200 4800 573 594 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 22:18:48 24.225.66.201 GET /images/map_beige_guat7.jpg 200 44182 572 2047 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:55:56 24.225.66.201 GET /pakistan/pakistan_journal.htm 200 0 575 156 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:55:56 24.225.66.201 GET /pakistan/pakistan_journal.htm 200 11056 575 515 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:55:56 24.225.66.201 GET /images/journaling2.gif 200 2288 597 172 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:55:58 24.225.66.201 GET /images/pakistan.jpg 200 21877 594 625 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:55:58 24.225.66.201 GET /images/map_BG.jpg 200 8918 520 235 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:26 24.225.66.201 GET /pakistan/index.htm 200 8588 593 1656 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:26 24.225.66.201 GET /pakistan/thumbnails/02boats+old+skylline.jpg 200 3109 612 187 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:26 24.225.66.201 GET /pakistan/thumbnails/01skyline.jpg 200 2457 597 219 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:26 24.225.66.201 GET /pakistan/thumbnails/filler.jpg 200 1023 594 391 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:26 24.225.66.201 GET /pakistan/thumbnails/07crazy+families.jpg 200 2740 606 390 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:26 24.225.66.201 GET /pakistan/thumbnails/08new+year's+day+on+beach.+jpg.jpg 200 2396 630 579 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:26 24.225.66.201 GET /pakistan/thumbnails/11sunset+fishing+boat.jpg 200 2286 613 594 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/05christmas+tree.jpg 200 3025 606 687 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/04boat+crew.jpg 200 4289 601 703 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/03watertaxiskylline.jpg 200 3346 607 687 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/06Iranian+mosque.jpg 200 3813 606 719 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/12weddingnight.jpg 200 2721 602 484 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/13floor+finishers.jpg 200 2626 607 485 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/14paul+on+roof.jpg 200 1616 606 296 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/15scafold.jpg 200 3547 597 484 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/16courtyard.jpg 200 3332 599 516 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/17Old+City+street+scene.jpg 200 3097 617 750 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/19camel+cart.jpg 200 2280 602 766 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:27 24.225.66.201 GET /pakistan/thumbnails/20masai+village.jpg 200 2401 605 718 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:28 24.225.66.201 GET /pakistan/thumbnails/21jumping+with+masai.jpg 200 4665 612 797 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:28 24.225.66.201 GET /pakistan/thumbnails/22our+group.jpg 200 3650 601 797 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:28 24.225.66.201 GET /pakistan/thumbnails/23elephant+stud.jpg 200 3082 605 1016 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:28 24.225.66.201 GET /pakistan/thumbnails/24lions+on+road.jpg 200 2952 607 813 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:28 24.225.66.201 GET /pakistan/thumbnails/25playingcards_hippo_mara.jpg 200 3536 613 984 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:30 24.225.66.201 GET /pakistan/pages/01skyline.htm 200 1766 592 219 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:30 24.225.66.201 GET /pakistan/images/next.gif 200 600 598 187 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:30 24.225.66.201 GET /pakistan/images/home.gif 200 614 598 188 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2
+2004-01-15 23:59:31 24.225.66.201 GET /pakistan/images/01skyline.jpg 200 27307 603 953 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020318+Netscape6/6.2.2

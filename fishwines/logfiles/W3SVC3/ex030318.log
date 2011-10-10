@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2003-03-18 16:23:18
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2003-03-18 16:23:18 209.208.143.184 GET /index.htm 200 7039 302 1265 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:23:26 209.208.143.184 GET /images/bg_gradient_home.jpg 200 4824 346 5032 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:23:27 209.208.143.184 GET /images/bg_gradient_home.jpg 200 4824 346 8968 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:23:33 209.208.143.184 GET /images/map_home_eth_line.jpg 200 42690 347 11906 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:23:33 209.208.143.184 GET /images/goodbye.jpg 200 22204 337 15766 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:11 209.208.143.184 GET /india.htm 200 8144 334 4547 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:11 209.208.143.184 GET /india.htm 200 8144 334 5250 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:11 209.208.143.184 GET /images/india1.jpg 200 6344 345 4313 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:16 209.208.143.184 GET /images/india.jpg 200 21784 344 7563 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:16 209.208.143.184 GET /images/map_BG.jpg 200 8942 345 5188 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:17 209.208.143.184 GET /images/map_BG.jpg 200 8942 345 5422 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:23 209.208.143.184 GET /images/india2.jpg 200 24059 345 14140 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:59 209.208.143.184 GET /images/header.gif 200 2038 350 2422 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:24:59 209.208.143.184 GET /homeschool.htm 200 6265 339 3875 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:25:00 209.208.143.184 GET /images/northwestschoollogo.jpg 200 4485 363 860 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)
+2003-03-18 16:25:00 209.208.143.184 GET /images/northwestschool.jpg 200 21255 359 5406 HTTP/1.0 Mozilla/4.08+(Macintosh;+U;+PPC,+Nav)

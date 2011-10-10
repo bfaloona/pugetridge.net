@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2003-12-22 09:50:27
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2003-12-22 09:50:27 66.194.6.77 GET /index.htm 200 7827 129 750 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1-rc5;+i686+Linux;+20020627)
+2003-12-22 10:32:46 66.194.6.76 GET /ethiopia.htm 200 8050 141 156 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.1-rc4;+i686+Linux;+20021128)
+2003-12-22 23:00:55 66.194.6.2 GET /index.htm 200 7827 130 141 HTTP/1.0 Sqworm/2.9.85-BETA+(beta_release;+20011115-775;+i686-pc-linux-gnu)

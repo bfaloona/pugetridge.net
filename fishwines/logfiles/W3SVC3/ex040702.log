@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-07-02 16:16:39
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2004-07-02 16:16:39 24.225.67.17 GET /index.htm 200 7827 473 344 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:41 24.225.67.17 GET /images/goodbye.jpg 200 22180 534 984 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:41 24.225.67.17 GET /images/bg_gradient_home.jpg 200 4800 543 547 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:42 24.225.67.17 GET /images/map_beige_guat7.jpg 200 44182 542 2313 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:55 24.225.67.17 GET /ethiopia.htm 200 0 528 172 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:55 24.225.67.17 GET /ethiopia.htm 200 8050 528 188 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:57 24.225.67.17 GET /images/ethiopia1.jpg 200 17914 548 500 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:57 24.225.67.17 GET /images/ethiopia.jpg 200 22058 547 1079 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:16:57 24.225.67.17 GET /images/map_BG.jpg 200 8918 545 187 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:09 24.225.67.17 GET /ethiopia/index.htm 200 8326 546 219 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:09 24.225.67.17 GET /ethiopia/thumbnails/02roadside+ping+pong.jpg 200 3114 582 203 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:09 24.225.67.17 GET /ethiopia/thumbnails/01Addis+bus+station.jpg 200 2294 581 187 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/09Annie+spinning.jpg 200 3390 576 594 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/10Debre+Berhan+Selasie+ceiling.jpg 200 3908 594 594 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/08B's+injera.jpg 200 2924 574 844 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/03Blue+Nile+Falls.jpg 200 3209 579 875 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/12town+from+church.jpg 200 3190 580 250 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/07jumping+rope+in+courtyard.jpg 200 3345 591 875 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/06sorting+beans+in+courtyard.jpg 200 3629 592 875 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/05Ababa+roasting+coffee+beans.jpg 200 3441 593 906 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/04Bahar+Dar+Timket+parade.jpg 200 4323 589 891 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/11village+horizontal.jpg 200 1667 580 485 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/19congregation.jpg 200 3372 572 250 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/18maganite+basket+weaving.jpg 200 3154 587 250 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/13Admasi+houses.jpg 200 2883 575 485 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/14_7th+graders+at+home.jpg 200 2030 586 547 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:10 24.225.67.17 GET /ethiopia/thumbnails/15hike+from+home.jpg 200 2137 578 531 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:11 24.225.67.17 GET /ethiopia/thumbnails/16jaegew+and+cows.jpg 200 3123 579 750 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:11 24.225.67.17 GET /ethiopia/thumbnails/17kesi+admasi+casi.jpg 200 3412 580 750 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:11 24.225.67.17 GET /ethiopia/thumbnails/21church+painting.jpg 200 4371 577 765 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:11 24.225.67.17 GET /ethiopia/thumbnails/20church+-+men's+entrance.jpg 200 3099 591 828 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:11 24.225.67.17 GET /ethiopia/thumbnails/22coffee+shop+girls.jpg 200 3226 581 1000 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:11 24.225.67.17 GET /ethiopia/thumbnails/23school+kids+w-b.jpg 200 3733 579 781 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:12 24.225.67.17 GET /ethiopia/pages/08B's+injera.htm 200 1603 569 204 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:12 24.225.67.17 GET /ethiopia/images/previous.gif 200 609 579 188 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:12 24.225.67.17 GET /ethiopia/images/next.gif 200 600 575 203 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:12 24.225.67.17 GET /ethiopia/images/home.gif 200 614 575 187 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:12 24.225.67.17 GET /ethiopia/images/08B's+injera.jpg 200 39525 587 844 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:25 24.225.67.17 GET /ethiopia/pages/01Addis+bus+station.htm 200 1641 576 203 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:17:26 24.225.67.17 GET /ethiopia/images/01Addis+bus+station.jpg 200 24504 601 937 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:18:29 24.225.67.17 GET /ethiopia/pages/09Annie+spinning.htm 200 1741 571 187 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:18:29 24.225.67.17 GET /ethiopia/pages/09Annie+spinning.htm 200 1741 571 172 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:18:31 24.225.67.17 GET /ethiopia/images/09Annie+spinning.jpg 200 45705 591 1329 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:19:48 24.225.67.17 GET /ethiopia/pages/12town+from+church.htm 200 1913 575 203 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:19:48 24.225.67.17 GET /ethiopia/images/12town+from+church.jpg 200 0 599 141 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:19:51 24.225.67.17 GET /ethiopia/images/12town+from+church.jpg 200 54230 599 1625 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:26:58 24.225.67.17 GET /ethiopia/pages/10Debre+Berhan+Selasie+ceiling.htm 200 1762 589 204 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3
+2004-07-02 16:27:02 24.225.67.17 GET /ethiopia/images/10Debre+Berhan+Selasie+ceiling.jpg 200 73576 627 4000 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+PPC;+en-US;+rv:0.9.4.1)+Gecko/20020508+Netscape6/6.2.3

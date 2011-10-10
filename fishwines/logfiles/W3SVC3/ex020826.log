@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2002-08-26 18:40:51
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2002-08-26 18:40:51 216.231.54.212 GET /index.htm 200 4923 310 172 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:40:51 216.231.54.212 GET /images/goodbye.jpg 200 22180 272 891 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:40:52 216.231.54.212 GET /images/bg_gradient_home.jpg 200 4800 281 422 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:40:52 216.231.54.212 GET /images/map_home_guat_line.jpg 200 41013 283 2234 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:41:21 216.231.54.212 GET /usa.htm 200 7196 360 266 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:41:22 216.231.54.212 GET /images/South+courtyard.jpg 200 18952 289 1140 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:41:22 216.231.54.212 GET /images/usa.jpg 200 22062 275 1703 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:41:22 216.231.54.212 GET /images/map_BG.jpg 200 8918 278 641 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:42:12 216.231.54.212 GET /guatemala.htm 200 9652 366 390 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:42:12 216.231.54.212 GET /images/guat1.jpg 200 5508 283 235 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:42:12 216.231.54.212 GET /images/guat2.jpg 200 6144 283 454 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 18:42:13 216.231.54.212 GET /images/header_guat.jpg 200 21628 289 1047 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+98)(R1+1.1)
+2002-08-26 22:17:00 63.225.174.65 GET /index.htm 200 4923 306 313 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)
+2002-08-26 22:17:02 63.225.174.65 GET /images/map_home_guat_line.jpg 200 41013 279 1812 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)
+2002-08-26 22:17:02 63.225.174.65 GET /images/goodbye.jpg 200 22180 268 1938 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)
+2002-08-26 22:17:02 63.225.174.65 GET /images/bg_gradient_home.jpg 200 4800 277 516 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1)

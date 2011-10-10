@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2002-10-24 20:18:34
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2002-10-24 20:18:34 206.81.222.24 GET /index.htm 200 6140 235 172 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:34 206.81.222.24 GET /images/bg_gradient_home.jpg 200 4800 395 297 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:36 206.81.222.24 GET /images/goodbye.jpg 200 22180 386 1391 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:36 206.81.222.24 GET /images/map_home_guat_line.jpg 200 41432 397 2171 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:37 206.81.222.24 GET /index.htm 304 202 323 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:37 206.81.222.24 GET /images/goodbye.jpg 304 141 474 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:37 206.81.222.24 GET /images/map_home_guat_line.jpg 304 141 485 0 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:53 206.81.222.24 GET /spain/spain_journal.htm 200 39761 301 1328 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:53 206.81.222.24 GET /images/journaling2.gif 200 2288 413 93 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:18:55 206.81.222.24 GET /images/header_spain.jpg 200 21616 414 609 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:19:34 206.81.222.24 GET /homeschool.htm 200 5419 292 188 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:19:34 206.81.222.24 GET /images/header.gif 200 2014 399 172 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:19:34 206.81.222.24 GET /images/northwestschool.jpg 200 21231 408 734 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:19:35 206.81.222.24 GET /images/northwestschoollogo.jpg 200 4461 412 641 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:19:35 206.81.222.24 GET /images/map_BG.jpg 200 8918 399 844 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)
+2002-10-24 20:26:47 206.81.222.24 GET /index.htm 304 202 323 47 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Mac_PowerPC)

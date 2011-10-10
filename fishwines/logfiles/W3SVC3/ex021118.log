@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2002-11-18 16:06:11
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2002-11-18 16:06:11 64.156.198.80 GET /index.htm 200 6140 117 266 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+en-US;+rv:1.0rc5;+OBJR)
+2002-11-18 23:14:57 206.163.118.166 GET /index.htm 200 6140 98 297 HTTP/1.0 Konqueror/1.1.2
+2002-11-18 23:14:58 206.163.118.166 GET /images/goodbye.jpg 200 22180 116 688 HTTP/1.0 Konqueror/1.1.2
+2002-11-18 23:15:01 206.163.118.166 GET /images/map_home_guat_line.jpg 200 41432 127 1328 HTTP/1.0 Konqueror/1.1.2
+2002-11-18 23:15:12 206.163.118.166 GET /spain.htm 200 10235 107 469 HTTP/1.0 Konqueror/1.1.2
+2002-11-18 23:15:13 206.163.118.166 GET /images/spain1.jpg 200 12632 115 703 HTTP/1.0 Konqueror/1.1.2
+2002-11-18 23:15:14 206.163.118.166 GET /images/spain2.jpg 200 16112 115 578 HTTP/1.0 Konqueror/1.1.2
+2002-11-18 23:15:14 206.163.118.166 GET /images/header_spain.jpg 200 21616 121 1094 HTTP/1.0 Konqueror/1.1.2

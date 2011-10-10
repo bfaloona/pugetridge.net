@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-12-12 04:06:16
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2004-12-12 04:06:16 66.196.90.139 GET /robots.txt 404 4184 201 15 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 04:06:18 66.196.90.49 GET /pakistan/pages/11sunset+fishing+boat.htm 304 141 285 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 04:58:55 66.196.90.139 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 04:59:02 66.196.90.127 GET /pakistan/pages/19camel+cart.htm 304 140 274 31 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 06:14:25 66.196.72.187 GET /robots.txt 404 4184 201 16 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 06:14:25 66.196.80.113 GET /pakistan/pakistan_journal.htm 200 11056 220 406 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 08:41:13 66.196.72.181 GET /robots.txt 404 4184 201 15 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 08:41:13 66.196.91.221 GET /pakistan.htm 200 7796 203 141 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 12:34:21 66.196.72.181 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 12:34:21 66.196.91.238 GET /india.htm 200 8294 200 328 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 12:44:38 66.196.92.213 GET /spain.htm 200 10235 200 343 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 15:50:19 66.196.72.181 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 15:50:21 66.196.92.49 GET /turkey.htm 200 7610 201 140 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-12-12 16:11:58 66.196.92.13 GET /guatemala.htm 200 9672 204 312 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)

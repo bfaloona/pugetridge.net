@@ -1,0 +1,15 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-11-21 06:48:17
+#Fields: date time c-ip cs-method cs-uri-stem sc-status sc-bytes cs-bytes time-taken cs-version cs(User-Agent) 
+2004-11-21 06:48:17 66.196.90.55 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 06:48:22 66.196.90.205 GET /spain.htm 304 141 250 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 09:56:04 66.196.90.55 GET /robots.txt 404 4184 201 16 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 09:56:23 66.196.91.75 GET /ethiopia/pages/17kesi+admasi+casi.htm 304 140 282 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 14:46:44 66.194.6.73 GET /index.htm 200 7827 129 2688 HTTP/1.1 Mozilla/5.0+(compatible;+Konqueror/3.0-rc4;+i686+Linux;+20021202)
+2004-11-21 16:25:28 66.196.90.55 GET /robots.txt 404 4184 201 15 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 16:25:28 66.196.91.65 GET /ethiopia/pages/09Annie+spinning.htm 304 141 278 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 21:38:54 66.196.90.55 GET /robots.txt 404 4184 201 0 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 21:38:55 66.196.90.42 GET /ethiopia/pages/06sorting+beans+in+courtyard.htm 304 141 294 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 21:43:47 66.196.91.18 GET /ethiopia/pages/14_7th+graders+at+home.htm 304 141 288 16 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
+2004-11-21 22:12:39 66.196.91.120 GET /ethiopia/pages/22coffee+shop+girls.htm 304 140 283 47 HTTP/1.0 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp)
